@@ -19,9 +19,9 @@ const networkConfig = {
     },
 }
 
-const developementChains = ["hardhat", "localhost"]
+const developmentChains = ["hardhat", "localhost"]
 
 module.exports = {
     networkConfig,
-    developementChains,
+    developmentChains,
 }
